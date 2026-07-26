@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MyAuth.Api/MyAuth.Api.csproj" />
+  <Project Path="MyAuth.Core/MyAuth.Core.csproj" />
+  <Project Path="MyAuth.Domain/MyAuth.Domain.csproj" />
+  <Project Path="MyAuth.Infrastructure/MyAuth.Infrastructure.csproj" />
+</Solution>
